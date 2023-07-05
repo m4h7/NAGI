@@ -1,0 +1,27 @@
+/agi_text.c/1.10/Sun Apr 21 12:32:32 2002//
+/agi_text.h/1.1.1.1/Sun Apr 21 12:32:34 2002//
+/cmd_input.c/1.8/Sun Apr 21 12:32:32 2002//
+/cmd_input.h/1.1.1.1/Sun Apr 21 12:32:34 2002//
+/controller.c/1.1.1.1/Sun Apr 21 12:32:32 2002//
+/controller.h/1.1.1.1/Sun Apr 21 12:32:34 2002//
+/events.c/1.7/Sun Apr 21 20:54:04 2002//
+/events.h/1.1.1.1/Sun Apr 21 12:32:34 2002//
+/list_box.c/1.5/Sun Apr 21 12:32:32 2002//
+/list_box.h/1.2/Sun Apr 21 12:32:34 2002//
+/menu.c/1.5/Sun Apr 21 12:32:32 2002//
+/menu.h/1.1.1.1/Sun Apr 21 12:32:34 2002//
+/mouse.c/1.8/Sun Apr 21 12:32:32 2002//
+/mouse.h/1.2/Sun Apr 21 12:32:34 2002//
+/msg.c/1.6/Sun Apr 21 12:32:32 2002//
+/msg.h/1.3/Sun Apr 21 12:32:34 2002//
+/parse.c/1.2/Sun Apr 21 12:32:32 2002//
+/parse.h/1.1.1.1/Sun Apr 21 12:32:34 2002//
+/printf.c/1.3/Sun Apr 21 12:32:32 2002//
+/printf.h/1.1.1.1/Sun Apr 21 12:32:34 2002//
+/status.c/1.5/Sun Apr 21 20:54:20 2002//
+/status.h/1.1.1.1/Sun Apr 21 12:32:34 2002//
+/window.c/1.3/Sun Apr 21 12:32:32 2002//
+/window.h/1.1.1.1/Sun Apr 21 12:32:34 2002//
+/string.c/1.5/Wed May 01 09:53:08 2002//
+/string.h/1.4/Wed May 01 09:52:56 2002//
+D
